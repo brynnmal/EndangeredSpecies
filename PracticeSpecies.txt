@@ -1,0 +1,17 @@
+Tiger |T1| The tigers are critically threatened.  It's not good.|
+Orangutan |T2| Orangutans are also in trouble.  Because of the whole habitat loss thing.|
+Giant Panda |VU| Yep, Giant Pandas are threatened too, although less so now.  They're very cute.|
+Blue Whale |T2| Blue Whales are in trouble - they eat a lot, they live in the sea, seas are kind of a mess right now.|
+Asian Elephant |T1| These are the elephants with the tiny ears.  Everyone wants their tusks.  Very sad.|
+Gorilla |VU| They were on the list of endangered species, so I have to believe it is true.  Jane Goodall is not happy.|
+Snow Leopard |T1|  Makes sense that these are endangered.  They have snow in their name, and there's the whole global warming thing.|
+Rhinoceros |T1| These are also endangered because of their tusks.  What is it about tusks??  Just let the animal that grew 'em keep 'em!|
+Sea Turtle |VU| These animals have been around for 100 million years, and, yep, we're about to wipe that out.  Quite an accomplishment, in a bad way...|
+Sea Otter |T1| They live near Alaska mostly.  There used to be 300,000.  Now?  3000.|
+African Wild Dog |T1| Okay, so this particular dog isn't terribly cute, but it is really seriously endangered, and I don't wish for it to be extinct!|
+Amur Leopard |T1| This animal is seriously hurting because it has a beautiful coat, and people keep hunting it for its coat.  Like the leopard doesn't need its coat.  Let the leopard keep its coat, people!|
+Axolotl |T2| No idea what this is.  But it was on the list of endangered species.  Should probably google it.|
+Black-footed Ferrets |T2| Get this - this ferret is only found in North America and eats animals its own size. | 
+Chimpanzees |VU| Yep, we're wiping out the habitat of the species most closely related to us.  Good job humans!|
+Galapagos Penguins |T2|  My guess is that the Galapagos Islands are going to be under water shortly, so any animal with the word 'Galapagos' in their name is probably in trouble.|
+Golden Lion Tamarins |VU| Poor Golden Lion Tamarins.  Their habitat is going away.  Poor, poor Golden Lion Tamarins.|
